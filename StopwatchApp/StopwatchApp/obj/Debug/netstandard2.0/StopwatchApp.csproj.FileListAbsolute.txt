@@ -1,0 +1,15 @@
+C:\Users\jesus\source\repos\StopwatchApp\StopwatchApp\StopwatchApp\bin\Debug\netstandard2.0\StopwatchApp.deps.json
+C:\Users\jesus\source\repos\StopwatchApp\StopwatchApp\StopwatchApp\bin\Debug\netstandard2.0\StopwatchApp.dll
+C:\Users\jesus\source\repos\StopwatchApp\StopwatchApp\StopwatchApp\bin\Debug\netstandard2.0\ref\StopwatchApp.dll
+C:\Users\jesus\source\repos\StopwatchApp\StopwatchApp\StopwatchApp\bin\Debug\netstandard2.0\StopwatchApp.pdb
+C:\Users\jesus\source\repos\StopwatchApp\StopwatchApp\StopwatchApp\obj\Debug\netstandard2.0\StopwatchApp.csproj.AssemblyReference.cache
+C:\Users\jesus\source\repos\StopwatchApp\StopwatchApp\StopwatchApp\obj\Debug\netstandard2.0\StopwatchApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesus\source\repos\StopwatchApp\StopwatchApp\StopwatchApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\jesus\source\repos\StopwatchApp\StopwatchApp\StopwatchApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\jesus\source\repos\StopwatchApp\StopwatchApp\StopwatchApp\obj\Debug\netstandard2.0\StopwatchApp.AssemblyInfoInputs.cache
+C:\Users\jesus\source\repos\StopwatchApp\StopwatchApp\StopwatchApp\obj\Debug\netstandard2.0\StopwatchApp.AssemblyInfo.cs
+C:\Users\jesus\source\repos\StopwatchApp\StopwatchApp\StopwatchApp\obj\Debug\netstandard2.0\StopwatchApp.csproj.CoreCompileInputs.cache
+C:\Users\jesus\source\repos\StopwatchApp\StopwatchApp\StopwatchApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\jesus\source\repos\StopwatchApp\StopwatchApp\StopwatchApp\obj\Debug\netstandard2.0\StopwatchApp.dll
+C:\Users\jesus\source\repos\StopwatchApp\StopwatchApp\StopwatchApp\obj\Debug\netstandard2.0\refint\StopwatchApp.dll
+C:\Users\jesus\source\repos\StopwatchApp\StopwatchApp\StopwatchApp\obj\Debug\netstandard2.0\StopwatchApp.pdb
